@@ -11,20 +11,20 @@ A fundamental implementation of the single-layer Perceptron algorithm built in P
 * **Data Visualization:** Uses Matplotlib to dynamically plot the dataset and the **decision boundary** (hyperplane) as the perceptron learns across epochs.
 * **Testing Learning Rates ($\eta$):** The code structure allows for easy testing and comparison of different learning rates to show their impact on convergence speed.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python 3.x**
 * **NumPy:** Used for efficient array manipulation and weight calculations.
 * **Matplotlib:** Used for visualizing the dataset and the decision boundary during the training process.
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 * **Machine Learning Fundamentals:** Deep understanding of supervised learning and the Perceptron model.
 * **Numerical Computation:** Efficient use of the NumPy library.
 * **Algorithm Visualization:** Ability to visually represent abstract mathematical concepts (decision boundary movement).
 * **Code Structure:** Organizing complex logic (training loop, weight update, plotting) into clean functions.
 
-## 💡 How to Run
+## How to Run
 
 1.  Clone the repository:
     ```bash
