@@ -2,9 +2,9 @@
 
 
 
-A fundamental implementation of the single-layer Perceptron algorithm built from scratch in Python. This project focuses on demonstrating the core mechanics of a neural network, including weight initialization, forward propagation, and the Perceptron Learning Rule, without relying on high-level libraries like Scikit-learn or TensorFlow.
+A fundamental implementation of the single-layer Perceptron algorithm built in Python. This project focuses on demonstrating the core mechanics of a neural network, including weight initialization, forward propagation, and the Perceptron Learning Rule, without relying on high-level libraries like Scikit-learn or TensorFlow.
 
-## 🚀 Key Features
+## Key Features
 
 * **From Scratch Implementation:** All core logic (learning rule, prediction) is implemented using fundamental NumPy operations.
 * **Linear Separability Tests:** Includes tests for classic logic gates (AND, NAND) to verify correct convergence.
