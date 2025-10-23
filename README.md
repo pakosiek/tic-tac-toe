@@ -14,8 +14,8 @@ A fundamental implementation of the single-layer Perceptron algorithm built in P
 ## Technologies Used
 
 * **Python 3.x**
-* **NumPy:** Used for efficient array manipulation and weight calculations.
-* **Matplotlib:** Used for visualizing the dataset and the decision boundary during the training process.
+* **NumPy:**
+* **Matplotlib:**
 
 ## Skills Demonstrated
 
