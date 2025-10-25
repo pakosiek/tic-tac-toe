@@ -11,7 +11,7 @@ A classic Tic-Tac-Toe game with a perfect, unbeatable AI opponent. This project 
 ## Core Features & Skills
 
 * **Minimax Algorithm:** Implements the Minimax recursive algorithm to ensure optimal play by the AI.
-* **Game AI:** Demonstrates ability to create game agents that analyze and predict opponent moves.
+* **Game AI:** Demonstrates ability to analyze and predict opponent moves.
 * **Logic Separation:** Maintains a clear distinction between the game logic (board state) and the GUI (Tkinter buttons).
 * **Win Conditions:** Robust checking for horizontal, vertical, and two diagonal win scenarios, plus draw detection.
 
