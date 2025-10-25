@@ -1,42 +1,28 @@
-# Perceptron: Single-Layer Implementation
+# Tic-Tac-Toe: Unbeatable Minimax AI
 
 
+A classic Tic-Tac-Toe game with a perfect, unbeatable AI opponent. This project demonstrates core game logic and advanced algorithmic implementation.
 
-A fundamental implementation of the single-layer Perceptron algorithm built in Python. This project focuses on demonstrating the core mechanics of a neural network, including weight initialization, forward propagation, and the Perceptron Learning Rule, without relying on high-level libraries like Scikit-learn or TensorFlow.
+## ⚙️ Key Technologies
 
-## Key Features
+* **Python:** Main language.
+* **Tkinter:** Used for the Graphical User Interface (GUI).
 
-* **From Scratch Implementation:** All core logic (learning rule, prediction) is implemented using fundamental NumPy operations.
-* **Linear Separability Tests:** Includes tests for classic logic gates (AND, NAND) to verify correct convergence.
-* **Data Visualization:** Uses Matplotlib to dynamically plot the dataset and the **decision boundary** (hyperplane) as the perceptron learns across epochs.
-* **Testing Learning Rates ($\eta$):** The code structure allows for easy testing and comparison of different learning rates to show their impact on convergence speed.
+## 🧠 Core Features & Skills
 
-## Technologies Used
+* **Minimax Algorithm:** Implements the Minimax recursive algorithm to ensure optimal play by the AI.
+* **Game AI:** Demonstrates ability to create game agents that analyze and predict opponent moves.
+* **Logic Separation:** Maintains a clear distinction between the game logic (board state) and the GUI (Tkinter buttons).
+* **Win Conditions:** Robust checking for horizontal, vertical, and two diagonal win scenarios, plus draw detection.
 
-* **Python 3.x**
-* **NumPy:**
-* **Matplotlib:**
-
-## Skills Demonstrated
-
-* **Machine Learning Fundamentals:** Deep understanding of supervised learning and the Perceptron model.
-* **Numerical Computation:** Efficient use of the NumPy library.
-* **Algorithm Visualization:** Ability to visually represent abstract mathematical concepts (decision boundary movement).
-* **Code Structure:** Organizing complex logic (training loop, weight update, plotting) into clean functions.
-
-## How to Run
+## 🚀 How to Run
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/Perceptron.git](https://github.com/YourUsername/Perceptron.git)
-    cd Perceptron
+    git clone [https://github.com/YourUsername/tic-tac-toe.git](https://github.com/YourUsername/tic-tac-toe.git)
+    cd tic-tac-toe
     ```
-2.  Install dependencies:
+2.  Execute the main script:
     ```bash
-    pip install numpy matplotlib
+    python gierka.py
     ```
-3.  Execute the main script:
-    ```bash
-    python Perceptron.py
-    ```
----
