@@ -1,7 +1,7 @@
 # Tic-Tac-Toe: Unbeatable Minimax AI
 
 
-A classic Tic-Tac-Toe game with a perfect, unbeatable AI opponent. This project demonstrates core game logic and advanced algorithmic implementation.
+A classic Tic-Tac-Toe game with a perfect, unbeatable AI opponent.
 
 ## Technologies used:
 
